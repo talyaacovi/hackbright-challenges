@@ -38,7 +38,7 @@ def zero_matrix(matrix):
         for row in matrix:
             row[i] = 0
 
-    print matrix
+    return matrix
 
 
 
